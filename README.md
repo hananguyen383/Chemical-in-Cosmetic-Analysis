@@ -17,7 +17,7 @@ SQL – Data querying, filtering, and analysis
 
 Power BI – Data visualization
 
-📊 **Results / Key Insights:**
+🔎 **Results / Key Insights:**
 
 The Procter & Gamble Company has the highest number of discontinued chemicals among the companies shown, with approximately 2,900 discontinued chemicals, considerably higher than the other companies.
 
