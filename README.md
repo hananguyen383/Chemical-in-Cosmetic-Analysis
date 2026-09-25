@@ -27,3 +27,16 @@ The dashboard identifies multiple products containing discontinued chemicals, wi
 
 # 📄 Full Report
 <img width="1950" height="2871" alt="ChemicalCosmeticAnalysis" src="https://github.com/user-attachments/assets/edf880c4-01d9-43e0-8009-ff8158ac108b" />
+
+# ⭐ Step by Step Process
+1. Remove duplicate rows
+<img width="2546" height="1443" alt="0 remove duplicate" src="https://github.com/user-attachments/assets/78fa7e4c-6941-4f39-be08-4cb3d993b145" />
+
+2. Extract the date numbers to make a new column with the right date date type.
+<img width="2523" height="1443" alt="1  2 tach cot" src="https://github.com/user-attachments/assets/a9aa03ae-3b6a-4e92-b44d-4715527574e2" />
+
+3. Import dataset to SQL with the right data type with each Column Name
+
+<img width="2537" height="1454" alt="1  3 impoert" src="https://github.com/user-attachments/assets/30500f13-3452-4958-bdef-7766263cac82" />
+
+
