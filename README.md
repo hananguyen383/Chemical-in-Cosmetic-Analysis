@@ -39,4 +39,22 @@ The dashboard identifies multiple products containing discontinued chemicals, wi
 
 <img width="2537" height="1454" alt="1  3 impoert" src="https://github.com/user-attachments/assets/30500f13-3452-4958-bdef-7766263cac82" />
 
+4. Dimension Explosion
+
+<img width="1884" height="972" alt="1  Dimension Exploration" src="https://github.com/user-attachments/assets/d4a85858-3093-4203-bb8b-af749a28fb31" />
+
+5. Find the significant date
+
+<img width="1882" height="949" alt="2  ExploreDimension" src="https://github.com/user-attachments/assets/2763b2f6-3149-4bb1-bdfa-85ecde3f91e0" />
+
+6. Ranking
+
+<img width="1878" height="949" alt="3  Ranking" src="https://github.com/user-attachments/assets/8a90f28c-a41b-4094-a486-52dfe7128099" />
+
+7. Visualize dashboard in Power BI
+
+<img width="1907" height="977" alt="4  power bi" src="https://github.com/user-attachments/assets/fe503d1d-134e-4b5f-9cf7-e5e173aa31ba" />
+
+
+
 
