@@ -24,3 +24,6 @@ The Procter & Gamble Company has the highest number of discontinued chemicals am
 Titanium dioxide is by far the most frequently used chemical in the dataset, accounting for approximately 91% of the recorded chemical usage, making it the dominant ingredient in this analysis.
 
 The dashboard identifies multiple products containing discontinued chemicals, with the highest-listed product containing 156 discontinued chemicals, highlighting products that may require further review or monitoring.
+
+# 📄 Full Report
+<img width="1950" height="2871" alt="ChemicalCosmeticAnalysis" src="https://github.com/user-attachments/assets/edf880c4-01d9-43e0-8009-ff8158ac108b" />
